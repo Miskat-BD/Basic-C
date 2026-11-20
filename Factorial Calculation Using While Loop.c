@@ -5,7 +5,7 @@ int main() {
 
     printf("Enter a number: ");
     scanf("%d", &n);
-
+    
     // Calculate factorial using while loop
     while (i <= n) {
         factorial *= i;
